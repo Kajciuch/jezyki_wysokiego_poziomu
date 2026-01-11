@@ -17,4 +17,5 @@
 > [**Zahostowana wersja produkcyjna Lab 6**](https://kajciuch.github.io/jezyki_wysokiego_poziomu/Lab6ReactProd/index.html)
 
 **Laboratorium 7:**
+> [**link do repo**](https://github.com/Kajciuch/JSNext_project)
 > [**Zahostowana wersja netlify**](https://nextjslab7.netlify.app/)

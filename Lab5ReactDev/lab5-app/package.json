@@ -2,7 +2,7 @@
   "name": "lab5-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Kajciuch.github.io/jezyki_wysokiego_poziomu/lab5",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",

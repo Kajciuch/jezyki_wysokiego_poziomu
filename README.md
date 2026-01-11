@@ -12,3 +12,6 @@
 
 **Laboratorium 5:**
 > [**Zahostowana wersja produkcyjna Lab 5**](https://kajciuch.github.io/jezyki_wysokiego_poziomu/Lab5ReactProd/index.html)
+
+**Laboratorium 6:**
+> [**Zahostowana wersja produkcyjna Lab 6**](https://kajciuch.github.io/jezyki_wysokiego_poziomu/Lab6ReactProd/index.html)

@@ -19,4 +19,4 @@
 **Laboratorium 7:**
 > [**link do repo**](https://github.com/Kajciuch/JSNext_project)
 --
-> [**Zahostowana wersja netlify**](https://nextjslab7.netlify.app/)
+> [**Zahostowana wersja netlify**](https://nextlab21310.netlify.app/)

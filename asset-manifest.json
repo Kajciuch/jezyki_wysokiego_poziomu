@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jezyki_wysokiego_poziomu/static/css/main.6b77fa87.css",
+    "main.js": "/jezyki_wysokiego_poziomu/static/js/main.b0ffc199.js",
+    "static/js/453.f00d4171.chunk.js": "/jezyki_wysokiego_poziomu/static/js/453.f00d4171.chunk.js",
+    "index.html": "/jezyki_wysokiego_poziomu/index.html",
+    "main.6b77fa87.css.map": "/jezyki_wysokiego_poziomu/static/css/main.6b77fa87.css.map",
+    "main.b0ffc199.js.map": "/jezyki_wysokiego_poziomu/static/js/main.b0ffc199.js.map",
+    "453.f00d4171.chunk.js.map": "/jezyki_wysokiego_poziomu/static/js/453.f00d4171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b77fa87.css",
+    "static/js/main.b0ffc199.js"
+  ]
+}

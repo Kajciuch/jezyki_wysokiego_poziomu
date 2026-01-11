@@ -5,8 +5,10 @@
 
 ---
 
+### 🚀 Moje Projekty (React)
+
 **Laboratorium 4:**
-> [**Zahostowana wersja produkcyjna Lab 4**](https://Kajciuch.github.io/jezyki_wysokiego_poziomu/lab4)
+> [**Zahostowana wersja produkcyjna Lab 4**](https://kajciuch.github.io/jezyki_wysokiego_poziomu/Lab4ReactProd/index.html)
 
 **Laboratorium 5:**
-> [**Zahostowana wersja produkcyjna Lab 5**](https://Kajciuch.github.io/jezyki_wysokiego_poziomu/lab5)
+> [**Zahostowana wersja produkcyjna Lab 5**](https://kajciuch.github.io/jezyki_wysokiego_poziomu/Lab5ReactProd/index.html)

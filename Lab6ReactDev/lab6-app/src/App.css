@@ -1,0 +1,99 @@
+/* ZMIENNE DLA TRYBU CIEMNEGO (Domyślny) */
+:root {
+  --bg-app: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #312e81 100%);
+  --card-bg: rgba(30, 41, 59, 0.7);
+  --card-border: rgba(255, 255, 255, 0.1);
+  --text-primary: #f8fafc;
+  --text-secondary: #38bdf8; /* Jasny błękit */
+  --accent: #8b5cf6; /* Fiolet */
+  --input-bg: rgba(15, 23, 42, 0.6);
+  --input-border: rgba(56, 189, 248, 0.3);
+}
+
+/* ZMIENNE DLA TRYBU JASNEGO */
+.light-mode {
+  --bg-app: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
+  --card-bg: rgba(255, 255, 255, 0.9);
+  --card-border: rgba(0, 0, 0, 0.1);
+  --text-primary: #0f172a; /* Głęboki granat - idealna czytelność */
+  --text-secondary: #4f46e5; /* Indygo */
+  --accent: #7c3aed;
+  --input-bg: #ffffff;
+  --input-border: #cbd5e1;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, sans-serif;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.theme-wrapper {
+  background: var(--bg-app);
+  min-height: 100vh;
+  color: var(--text-primary);
+  padding: 40px 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 800;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.card {
+  background: var(--card-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--card-border);
+  border-radius: 24px;
+  padding: 32px;
+  margin-bottom: 24px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  border-color: var(--text-secondary);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: var(--text-secondary);
+  font-size: 1.4rem;
+}
+
+button {
+  background: var(--accent);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  filter: brightness(1.2);
+  box-shadow: 0 0 15px var(--accent);
+}
+
+input {
+  background: var(--input-bg);
+  color: var(--text-primary);
+  border: 2px solid var(--input-border);
+  padding: 12px;
+  border-radius: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 12px 0;
+}

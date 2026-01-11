@@ -6,7 +6,7 @@
 ---
 
 **Laboratorium 4:**
-> [**Zahostowana wersja produkcyjna Lab 4**](https://Kajciuch.github.io/jezyki_wysokiego_poziomu/Lab4ReactProd)
+> [**Zahostowana wersja produkcyjna Lab 4**](https://Kajciuch.github.io/jezyki_wysokiego_poziomu/lab4)
 
 **Laboratorium 5:**
-> [**Zahostowana wersja produkcyjna Lab 5**](https://Kajciuch.github.io/jezyki_wysokiego_poziomu/Lab5ReactProd)
+> [**Zahostowana wersja produkcyjna Lab 5**](https://Kajciuch.github.io/jezyki_wysokiego_poziomu/lab5)
